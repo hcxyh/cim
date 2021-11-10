@@ -2,6 +2,10 @@ package com.crossoverjie.cim.server.api.vo.req;
 
 public class Test {
 
+    /**
+     * 测试
+     * @param args
+     */
 
     public static void main(String[] args) {
 
